@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+        <title>Self Practice(HTML+CSS+JS): </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Password Toggle Practice</h1>
+        <div class="input-box"><input type="password" placeholder="password" id="password">
+        <img src="eye-close.png" id="eyeicon">
+        </div>
+        <script>
+            let eyeicon = document.getElementById("eyeicon");
+            let password = document.getElementById("password");
+        eyeicon.onclick = function(){
+                if(password.type == "password"){
+                password.type = "text";
+                eyeicon.src = "eye-open.png";
+            }else{
+                password.type="password";
+                eyeicon.src = "eye-close.png";
+            }
+        }
+        </script>
+    </body>
+</html>
