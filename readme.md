@@ -7,24 +7,26 @@
 
 ## 🚀 About Me
 
-**Ishwari Deshmukh** — B.E. Computer Engineering
+**Ishwari Deshmukh** — Bachelor's of Computer Engineering
 
 - 🎓 Completed B.E. in Computer Engineering.
-- 🧠 Focused on Frontend and Backend Development.
-- 📸 Passionate about photography & nature videography.
+- 🧠 Focused on Python, GenAI, AI, Frontend and Backend Development.
+- 📸 Passionate about Drawing & nature videography.
+- Adaptive Learning and Practical implementation new Technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C, SQL
-
-**Web:** HTML, CSS, JavaScript (basic), Bootstrap
-
-**Frameworks & Tools:** Streamlit, VS Code, Google Colab, Jupyter Notebook, GitHub
-
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-
+**Languages:** Python, Gen-AI, ML, AI, LLM, Prompt Engineering, OOP, Java, DS, SQL.
+**Data Analytics Tools:** Power BI, Excel, SQL, Streamlit.
+**Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn.
+**Web Technologies:** HTML, CSS, JavaScript, Angular.
+**Tools:** Git, GitHub, VS Code.
+**Concepts:** OOP, SDLC, Data Visualization, Data Annotation, Data Cleaning & Processing, Exploratory Data Analysis (EDA).
+**Web:** HTML, CSS, JavaScript, Bootstrap
+**Frameworks & Tools:** Streamlit, VS Code, Google Colab, Jupyter Notebook, Git, GitHub
+**Databases:** PostgreSQL, MySQL, SQLite
 **Other Tools:** Git, Postman, Excel
 
 
@@ -32,7 +34,7 @@
 
 ## 🌱 Currently Learning
 
-Streamlit, Python, GenAI, Artificial Intelligence
+Streamlit, Python, GenAI, Artificial Intelligence,AWS
 
 ---
 
